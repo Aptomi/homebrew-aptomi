@@ -1,9 +1,9 @@
 class Aptomi < Formula
   desc ""
   homepage "http://aptomi.io"
-  url "https://github.com/Aptomi/aptomi/releases/download/v0.1.10/aptomi_0.1.10_darwin_amd64.tar.gz"
-  version "0.1.10"
-  sha256 "a63e326a2cdf3f343e0f1ad227adcb1332b02bc8068fed46622f68285112260e"
+  url "https://github.com/Aptomi/aptomi/releases/download/v0.1.9/aptomi_0.1.9_darwin_amd64.tar.gz"
+  version "0.1.9"
+  sha256 "6b9147ebaa70f494d00ad44850c363abd18833319be6aa189bf41243f6ab0fb0"
 
   def install
     bin.install "aptomi"
